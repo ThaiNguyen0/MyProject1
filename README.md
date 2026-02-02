@@ -3,7 +3,7 @@
 Chào mừng bạn đến với dự án thực hành Thiết kế Web của mình! Đây là nơi mình chia sẻ những hình ảnh và thông tin về vẻ đẹp của xứ sở hoa anh đào.
 
 ## 🎯 Mục tiêu dự án
-* **Giới thiệu:** Danh sách các địa danh nổi tiếng như Núi Phú Sĩ, Cố đô Kyoto.
+* **Giới thiệu:** Danh sách các địa danh nổi tiếng như Núi Phú Sĩ, Cổng torii...
 * **Kiến thức:** Áp dụng kỹ năng xây dựng cấu trúc HTML và định dạng CSS chuyên nghiệp.
 * **Trải nghiệm:** Giao diện trực quan, hỗ trợ hiển thị tốt trên nhiều thiết bị.
 
